@@ -1,15 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Web.SessionState;
 using System.Collections.Specialized;
 using System.Web;
-using System.Web.Configuration;
 using ServiceStack.Redis;
-using System.Configuration.Provider;
-using System.IO;
-using System.Configuration;
 using ServiceStack.Redis.Support.Locking;
 
 namespace Harbour.RedisSessionStateStore

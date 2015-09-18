@@ -1,11 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using Xunit;
 using System.Collections.Specialized;
 using ServiceStack.Redis;
-using Xunit.Extensions;
 using System.Web;
 using Moq;
 using System.Web.SessionState;
